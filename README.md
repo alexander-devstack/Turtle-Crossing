@@ -60,7 +60,7 @@ There are no additional modules; the entire game logic is contained in `main.py`
 3. Run:
 4. Enter your colour bet in the dialog and watch the race
 
-# Possible Extensions
+### Possible Extensions
 Some ideas to extend this project:
 Add multiple rounds and keep track of the number of wins for the player.
 Draw a visible finish line and track lanes for each turtle.
